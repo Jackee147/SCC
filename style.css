@@ -76,6 +76,16 @@ p, ul {
 	padding: 5;
 }
 
+#QR {
+	float: center;
+	padding: 30px;
+}
+
+#QR1 {
+	text-align: left;
+	padding: 10px;
+}
+
 #footer {
 	background-color: #6B7375;
 	clear: both;
